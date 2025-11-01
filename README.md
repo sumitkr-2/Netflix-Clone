@@ -4,10 +4,10 @@
 A visually stunning and responsive **Netflix India landing page clone**, built purely using **HTML and CSS**.  
 This project recreates the official Netflix homepage experience — including sections like the hero banner, features, FAQ, and footer — with a clean, cinematic design.
 
-
 ---
 
 ## 🧰 Tech Stack
+
 - **HTML5**
 - **CSS3 (Flexbox + Responsive Design)**
 - **No JavaScript / frameworks used**
@@ -15,6 +15,7 @@ This project recreates the official Netflix homepage experience — including se
 ---
 
 ## 🎯 Features
+
 - ✅ Netflix-inspired modern UI  
 - ✅ Responsive layout for all devices  
 - ✅ Background hero section with overlay  
@@ -32,8 +33,6 @@ This project recreates the official Netflix homepage experience — including se
 ![Preview 2](assets/images/prev2.png)
 ![Preview 3](assets/images/prev3.png)
 
-
-
 ---
 
 ## 🗂️ Folder Structure
@@ -44,8 +43,11 @@ Netflix-Clone/
 │
 ├── assets/
 │   ├── images/
-│   │   └── logo.svg
-│   └── preview-*.png     # your screenshots
+│   │   ├── bg.jpg
+│   │   ├── logo.svg
+│   │   ├── prev1.png
+│   │   ├── prev2.png
+│   │   └── prev3.png
 │
 ├── index.html
 ├── style.css
@@ -59,23 +61,23 @@ Netflix-Clone/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/netflix-clone.git
+   git clone https://github.com/sumitkr-2/Netflix-Clone.git
 ````
 
 2. Navigate into the project folder:
 
    ```bash
-   cd netflix-clone
+   cd Netflix-Clone
    ```
-3. Open `index.html` in your browser.
 
-That’s it — no additional setup required.
+3. Open `index.html` in your browser.
+   That’s it — no additional setup required.
 
 ---
 
 ## 🌐 Deployment
 
-Deploy easily with:
+You can deploy this project easily using any static hosting service like:
 
 * **GitHub Pages**
 * **Netlify**
@@ -95,7 +97,7 @@ Deploy easily with:
 **Made by [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar2004/) ❤️**
 Front-End Developer | Web Enthusiast
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/).
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)
 
 ---
 
@@ -105,4 +107,17 @@ This project is intended **for educational purposes only**.
 All assets, logos, and trademarks belong to **Netflix, Inc.**
 Used here **only for learning and portfolio demonstration**.
 
+````
+
 ---
+
+✅ **What to do next:**
+1. Save this file as `README.md` in your project root.  
+2. Commit and push:
+   ```bash
+   git add README.md
+   git commit -m "Updated final README with previews and author"
+   git push origin main
+````
+
+
