@@ -1,5 +1,5 @@
-```markdown
-# 📺 Netflix India Clone
+````markdown
+ # 📺 Netflix India Clone
 
 A visually stunning and responsive **Netflix India landing page clone**, built purely using **HTML and CSS**.  
 This project recreates the official Netflix homepage experience — including sections like the hero banner, features, FAQ, and footer — with a clean, cinematic design.
@@ -29,48 +29,56 @@ This project recreates the official Netflix homepage experience — including se
 
 ## 🖼️ Preview
 
-![Preview 1](assets/images/prev1.png)
-![Preview 2](assets/images/prev2.png)
-![Preview 3](assets/images/prev3.png)
+> If the previews don’t load on GitHub, open the `assets/images/` folder in your repo to view them manually.
+
+<p align="center">
+  <img src="assets/images/prev1.png" width="90%" alt="Netflix Clone Preview 1" />
+</p>
+<p align="center">
+  <img src="assets/images/prev2.png" width="90%" alt="Netflix Clone Preview 2" />
+</p>
+<p align="center">
+  <img src="assets/images/prev3.png" width="90%" alt="Netflix Clone Preview 3" />
+</p>
 
 ---
 
 ## 🗂️ Folder Structure
 
-```
-
+```bash
 Netflix-Clone/
 │
 ├── assets/
-│   ├── images/
-│   │   ├── bg.jpg
-│   │   ├── logo.svg
-│   │   ├── prev1.png
-│   │   ├── prev2.png
-│   │   └── prev3.png
+│   └── images/
+│       ├── bg.jpg
+│       ├── logo.svg
+│       ├── prev1.png
+│       ├── prev2.png
+│       └── prev3.png
 │
 ├── index.html
 ├── style.css
 └── README.md
-
 ````
 
 ---
 
 ## ⚙️ How to Run Locally
 
-1. Clone this repository:
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/sumitkr-2/Netflix-Clone.git
-````
+   ```
 
-2. Navigate into the project folder:
+2. **Navigate into the project folder:**
 
    ```bash
    cd Netflix-Clone
    ```
 
-3. Open `index.html` in your browser.
+3. **Open the project:**
+   Simply open `index.html` in your browser.
    That’s it — no additional setup required.
 
 ---
@@ -106,18 +114,3 @@ Front-End Developer | Web Enthusiast
 This project is intended **for educational purposes only**.
 All assets, logos, and trademarks belong to **Netflix, Inc.**
 Used here **only for learning and portfolio demonstration**.
-
-````
-
----
-
-✅ **What to do next:**
-1. Save this file as `README.md` in your project root.  
-2. Commit and push:
-   ```bash
-   git add README.md
-   git commit -m "Updated final README with previews and author"
-   git push origin main
-````
-
-
