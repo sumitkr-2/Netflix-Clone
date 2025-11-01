@@ -4,11 +4,6 @@
 A visually stunning and responsive **Netflix India landing page clone**, built purely using **HTML and CSS**.  
 This project recreates the official Netflix homepage experience — including sections like the hero banner, features, FAQ, and footer — with a clean, cinematic design.
 
----
-
-## 🚀 Live Demo  
-👉 <img width="1462" height="731" alt="image" src="https://github.com/user-attachments/assets/a0fa39db-dcce-4d0c-883e-2b77574e7e73" />
-
 
 ---
 
@@ -33,10 +28,10 @@ This project recreates the official Netflix homepage experience — including se
 
 ## 🖼️ Preview
 
-<img width="1462" height="731" alt="image" src="https://github.com/user-attachments/assets/6fbdd082-a7ed-4347-936b-00b63cda70cf" />
-<img width="1469" height="688" alt="image" src="https://github.com/user-attachments/assets/d5cafe8c-7460-4661-8098-db9705695d34" />
-<img width="1455" height="727" alt="image" src="https://github.com/user-attachments/assets/d275ce83-ae55-4f33-b0cd-3b8471e45cbd" />
-<img width="1460" height="613" alt="image" src="https://github.com/user-attachments/assets/c170ea9d-aa11-4df8-9d4a-1d3ab183960d" />
+![Preview 1](assets/images/prev1.png)
+![Preview 2](assets/images/prev2.png)
+![Preview 3](assets/images/prev3.png)
+
 
 
 ---
